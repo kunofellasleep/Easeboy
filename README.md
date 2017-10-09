@@ -2,7 +2,7 @@
 
 ![capture](https://github.com/kunoworldwide/Easeboy/blob/media/capture.gif)
 
-EASEBOY™ is a tool to help you choose the best easing for your works. Just set the duration and you can check an easing animation.
+Just set the duration and you can check an easing animation.
 
 - Move animation
 - Scale animation
@@ -20,5 +20,11 @@ We currently support the following..
 - Back 
 - Linear
 
-**App Store - Free download**   
+## Install
+
+**App store free download**   
 [https://itunes.apple.com/jp/app/easeboy-easing-tester/id1294011758](https://itunes.apple.com/jp/app/easeboy-easing-tester/id1294011758)
+
+## License
+
+[MIT](https://github.com/kunoworldwide/Easeboy/blob/master/LICENSE)
